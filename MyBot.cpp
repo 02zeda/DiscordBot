@@ -2,7 +2,7 @@
 #include <dpp/dpp.h>
 
  /* Discord bot made using the D++ library. */
-const std::string    BOT_TOKEN    = "MTAyOTA2ODYyMzMwNzg4NjcxNQ.GfDebi.7ip1lONae9fmpFcnCQwqBD1axgVBriwlBDetJY";
+const std::string    BOT_TOKEN    = "";
 
 int main()
 {
